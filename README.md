@@ -8,7 +8,7 @@ The project features smooth animations, micro-interactions, responsive layouts, 
 
 ## 🚀 Live Demo
 
-- **Live URL:** [Insert Vercel / Netlify / GitHub Pages Link]
+- **Live URL:**  https://tulas-homepage-redesign-assignment.vercel.app/
 - **GitHub Repository:** https://github.com/Jayakesharwani/tulas-homepage-redesign-assignment
 
 ---
@@ -235,5 +235,5 @@ https://tis.edu.in/
 
 ## 👩‍💻 Author
 
-**Jaya Kesharwani**
+**Jaya Kesharwani-**
 **Full Stack Developer**
